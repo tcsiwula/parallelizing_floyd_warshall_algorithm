@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.3)
+project(parallelizing_floyd_warshall_algorithm)
+file(GLOB all_files "*.c")
+SET(SOURCE_FILES floyd.c)
+ADD_EXECUTABLE(${PROJECT_NAME} ${SOURCE_FILES})
