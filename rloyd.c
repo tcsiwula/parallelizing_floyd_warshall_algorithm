@@ -1,12 +1,3 @@
-/****************************************************************
- *	Grade: 60/100
- *	Commets: 1) Accept input format: 10/10
- *           2) Correct i/o: 20/20
- *           3) Floyd Test: 0/35
- *           4) Documentation: 10/10
- *           5) Source format: 5/10 hard reading format -5
- *           6) Quality: 15/15
- ***************************************************************/
 /* File:     floyd.c
  * Purpose:  Implement Floyd's algorithm for solving the all-pairs shortest
  *           path problem:  find the length of the shortest path between each
